@@ -2,22 +2,37 @@
 /* CSS Document */
 
 header{
-	background-color: orange;
+	background-color: #ff7801;
 	margin-bottom: 40px;
+	color: white;
+	font-family: 'Ek Mukta', sans-serif;
 }
+
+.heading{
+	font-size: 40px;
+	text-align: center;
+	font-weight: 800;
+}
+.sub-heading{
+	font-size: 20px;
+	text-align: center;
+	font-weight: 400;
+	line-height: .5em;
+		
+}
+
 
 body {
   font-family: "Roboto", sans-serif;
   color: #252525;
+	
 }
 
 header h1{
 	margin-bottom: 0px;
 	margin-top: 20px;
 }
-header p{
-	margin-top: .5em;
-}
+
 
 .card{
 	border: 1px solid #cccccc;
@@ -30,6 +45,7 @@ header p{
 
 .pic{
 	width: 100%;
+	height: auto;
 }
 
 
@@ -37,9 +53,11 @@ header p{
 .description h3{
 	margin-top: 0;
 	margin-bottom: 0;
+	font-size: 18px;
 }
 
 .description p{
 	margin-top: .5em;
 	margin-bottom: .5em;
+	font-size: 14px;
 }
