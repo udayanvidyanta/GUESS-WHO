@@ -1,3 +1,84 @@
+
+
 @charset "UTF-8";
 /* CSS Document */
 
+header{
+	background-color: #ff7801;
+	margin-bottom: 40px;
+	color: white;
+	font-family: 'Ek Mukta', sans-serif;
+}
+
+.heading{
+	font-size: 40px;
+	text-align: center;
+	font-weight: 800;
+}
+.sub-heading{
+	font-size: 20px;
+	text-align: center;
+	font-weight: 400;
+	line-height: .5em;
+		
+}
+
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #252525;
+	
+}
+
+header h1{
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+
+
+.card{
+	border: 1px solid #cccccc;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.description{
+	padding: 20px;
+}
+
+.pic{
+	width: 100%;
+	height: auto;
+}
+
+
+
+.description h3{
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 18px;
+}
+
+.description p{
+	margin-top: .5em;
+	margin-bottom: .5em;
+	font-size: 14px;
+}
+
+main>h3{
+	text-align: left;
+	color: black;
+	font-family: 'Ek Mukta', sans-serif;
+	padding-left: 100px;
+}
+
+.clues{
+	padding: 0px 20px 20px 30px;
+	color: #171717;
+	font-family: 'Ek Mukta', sans-serif;
+	margin-right: 20px;
+	margin-left: 50px;
+	line-height: 35px;
+}
+}
