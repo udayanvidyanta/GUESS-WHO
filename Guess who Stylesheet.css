@@ -61,3 +61,28 @@ header h1{
 	margin-bottom: .5em;
 	font-size: 14px;
 }
+
+a{
+	text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ff7801;
+	
+}
+
+/* selected link */
+a:active {
+    color: #ff7801;
+}
