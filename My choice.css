@@ -82,3 +82,18 @@ main>h3{
 	line-height: 35px;
 }
 }
+button{
+	color: white;
+	border: none;
+	border-radius: 15px;
+	font-size: 12px;
+	padding: 10px 15px;
+	background: #ff7801;
+	font-family: 'Roboto', sans-serif;
+}
+button:hover{
+	background: #E55F0F;
+}
+button:active{
+	background: #BF4105;
+}
